@@ -1,6 +1,6 @@
 # Push Changes to GitHub - TODO
 
-- [ ] Stage all changes (git add .)  
-- [ ] Commit changes  
-- [ ] Push to origin main  
-- [ ] Verify status
+- [x] Stage all changes (git add .)  
+- [x] Commit changes  
+- [x] Push to origin main  
+- [x] Verify status
