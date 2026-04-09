@@ -28,7 +28,7 @@ The project focuses on responsive design, reusable components, and clean UI deve
    npm start
 
 ## 📷 Screenshots
-(Add screenshots here)
+![alt text](<Screenshot (493).png>)
 
 ## 🌐 Live Demo
-(Add deployment link here)g
+(Add deployment link here)
